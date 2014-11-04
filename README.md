@@ -1,8 +1,8 @@
-# Modificame
+# Compartiendo en la web
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+Todo lo que aprendo, lo que enseño lo comparto con todos y todas que les interese.
 
-> Es nuestro arenero personal
+!
 
 Pueden:
 
@@ -11,5 +11,5 @@ Pueden:
 - Dejarme como está y agregar nuevas carpetas
 - [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
 
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
+![beemo](http://2.bp.blogspot.com/-Q2KxvZTau4w/T7RB-fuuuII/AAAAAAAABOM/3wFD-X0rHrE/s1600/DIA+DEL+MAESTRO.jpg)
 
